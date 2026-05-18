@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Dev Patel
+**A passionate ** AI/ML Devloper || Data Science Enthusiast || Python Devloper From India
 
+Email Me 👉 pdev20203@gmail.com For job 😊😊
+
+- 🔭 **I’m currently working on:** AI Weather Forecasting System
+- 🌱 **I’m currently learning:** Machine Learning, Deep Learning, Data Visualization
+- 👯 **I’m looking to collaborate on:** AI/ML and Data Science Projects
+- 🤔 **I’m looking for help with :** Advanced ML model optimization
+- 💬 **Ask me about:** Python, Machine Learning, Streamlit, Data Analysis
+- 📫 **How to reach me:** pdev20203@gmail.com
+- 😄 **Pronouns:** Dev
+- ⚡ **Fun fact:** I enjoy building intelligent prediction systems
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_patel_35) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-patel-bb4556360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pdev20203@gmail.com) 
 
